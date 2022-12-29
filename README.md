@@ -12,11 +12,11 @@ This is a version of the Snake game programmed with Python using my [Python Game
 This project was my attempt at simple 2-D game development using object oriented programming. In addition, I used it to help build my game development module and demonstrate its application.
 
 ### Features
-1. The snake can move around the screen using the arrow keys or <kbd>w</kbd>, <kbd>a</kbd>, <kbd>s</kbd>, <kbd>d</kbd> keys.
+1. The snake can move around the screen using the arrow keys or <kbd>W</kbd>, <kbd>A</kbd>, <kbd>S</kbd>, <kbd>D</kbd> keys.
 2. The snake grows in length every time it devours a mouse by colliding with it.
 3. After a mouse is devoured, a new one spawns at a random location on the field.
 4. The game can be paused and resumed using the <kbd>esc</kbd> key.
-5. The game ends and if the snake touches the edge of the screen or its own body part.
+5. The game ends if the snake touches the edges of the screen or its own body.
 6. The player has the option to replay the game after it is over by pressing the <kbd>enter</kbd> key.
 7. The game can track and display the snake's length and the highest length so far. The highest length is updated in an external text file every time the game window is quit.
 
