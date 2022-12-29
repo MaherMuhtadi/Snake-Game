@@ -1,6 +1,6 @@
 <div align="center">
 
-# Snake
+# Snake Game
 
 ![image](https://user-images.githubusercontent.com/99841502/210010014-43e3dda0-8138-4f6b-a064-23a498c19472.png)
 
