@@ -7,7 +7,7 @@
 </div>
 
 ## Description
-This is a version of the Snake game programmed with Python using my [Python Game Development Module](https://github.com/MaherMuhtadi/Python-Game-Development-Module) and the [PyGame](https://www.pygame.org/docs/) library. The game can only run on the Windows OS.
+This is a version of the Snake game programmed with Python using my [Python Game Development Module](https://github.com/MaherMuhtadi/Python-Game-Development-Module) and the [PyGame](https://www.pygame.org/docs/) library.
 
 This project was my attempt at simple 2-D game development using object oriented programming. In addition, I used it to help build my game development module and demonstrate its application.
 
@@ -21,7 +21,6 @@ This project was my attempt at simple 2-D game development using object oriented
 7. The game can track and display the snake's length and the highest length so far. The highest length is updated in an external text file every time the game window is quit.
 
 ## Installation
-Make sure you follow the steps and run the program on a Windows machine.
 
 ### Prerequisites
 1. Download and install the latest version of [Python](https://www.python.org/downloads/) that is compatible with [PyGame](https://www.pygame.org/wiki/GettingStarted).
@@ -42,4 +41,4 @@ $ python -m pip --version
 
     `python main.py`
 ---
-Last Updated: December 29, 2022
+Last Updated: January 09, 2023
